@@ -1,4 +1,4 @@
-# bremu45amoled
+# bremu45 AmoledCord based theme
 Forked AmoledCord with some improvements ;)
 
 You need BetterDiscord to use my theme.
