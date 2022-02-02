@@ -1,3 +1,16 @@
+/**
+ * @name bremu45 Discord Theme
+ * @author bremu45
+ * @authorLink https://2137.fun
+ * @version 1.1
+ * @description A simple dark theme made by bremu45 that has some features :) (Based on AmoledCord)
+ * @source https://raw.githubusercontent.com/bremu45/bremu45amoled/main/bremu45.theme.css
+ * @website https://2137.fun
+*/
+
+@import url("https://nyri4.github.io/Discolored/main.css");
+@import url("https://luckfire.github.io/amoled-cord/src/support/compiled.css");
+
 :root { --sidebar-initial-width: 240px; }
 .sidebar-1tnWFu {
     resize: horizontal;
