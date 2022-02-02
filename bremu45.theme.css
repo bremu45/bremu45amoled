@@ -1,0 +1,169 @@
+/**
+ * @name bremu45 Discord Theme
+ * @author bremu45
+ * @authorLink https://2137.fun
+ * @version 1.1
+ * @description A simple dark theme made by bremu45 that has some features :) (Based on AmoledCord)
+ * @source https://luckfire.github.io/amoled-cord/src/support/compiled.css
+ * @website https://2137.fun
+*/
+
+@import url("https://nyri4.github.io/Discolored/main.css");
+@import url("https://luckfire.github.io/amoled-cord/src/support/compiled.css");
+
+:root { --sidebar-initial-width: 240px; }
+.sidebar-1tnWFu {
+    resize: horizontal;
+    width: var(--sidebar-initial-width);
+}
+.sidebar-1tnWFu .channel-2QD9_O { max-width: unset; }
+.bannerImage-3KhIJ6 { width: 100%; }
+
+span.roleColor-nA7BqX::after {
+    content: "";
+    background: currentColor;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: 0.07;
+    left: 0;
+    top: 0;
+    border-radius: 14px;
+    padding-right: 100px;
+}
+
+span.username-h_Y3Us::after {
+    content: "";
+    background: currentColor;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: 0.11;
+    left: 0;
+    top: 0;
+    border-radius: 7px;
+}
+
+span.username-h_Y3Us {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+span.mention.wrapper-1ZcZW-.mention {
+    border-radius: 7px;
+}
+
+.embed-hKpSrO {
+    border-radius: 15px;
+}
+
+.wrapper-1HIH0j {
+    border-radius: 15px;
+}
+
+.button-2b4VEQ {
+    border-radius: 15px;
+}
+
+.icon-39rdLt {
+    border-radius: 100%;
+}
+
+.button-1EGGcP{
+    border-radius: 15px;
+}
+
+.item-1OdjEX {
+    border-radius: 10px;
+}
+
+.layout-1qmrhw {
+    border-radius: 10px;
+}
+
+.button-f2h6uQ {
+    border-radius: 25px;
+}
+
+.modal-3Hrb0S {
+    border-radius: 15px;
+}
+
+.flex-2S1XBF {
+    border-radius: 15px;
+}
+
+.membershipDialogHouse3-1E5AN4 {
+    border-radius: 15px;
+}
+
+.info-1sUqUG {
+    visibility: hidden;
+}
+
+.bd-addon-list .bd-addon-card {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    overflow: hidden;
+    background: var(--background-secondary);
+}
+
+.bd-addon-list .bd-footer .bd-links, .bd-addon-list .bd-footer .bd-links a, .bd-addon-list .bd-footer .bd-addon-button {
+    display: flex;
+    align-items: center;
+    border-radius: 100%;
+    margin-right: 5px;
+}
+
+.bd-button {
+    border-radius: 15px;
+}
+
+.bd-search-wrapper {
+    border-radius: 25px;
+}
+
+.scrollableContainer-15eg7h {
+    border-radius: 20px;
+}
+
+.wrapper-2vIMkT {
+    border-radius: 15px;
+}
+
+.menu-1QACrS {
+    border-radius: 15px;
+}
+
+.noiseCancellationPopout-2-e5Xz {
+    border-radius: 15px;
+}
+
+.container-1ILvLB {
+    border-radius: 15px;
+}
+
+span.itemValue-1-Xx5h.height24-10aZdw {
+    color: black;
+    transition: 150ms;
+    
+}
+
+span.itemValue-1-Xx5h.height24-10aZdw:hover {
+    color: white;
+}
+
+.warning-RBGtx2 {
+    border-radius: 25px;
+}
+
+.select-1Ia3hD {
+    border-radius: 25px;
+}
+
+.container-1_EVMa {
+    border-radius: 25px;
+}
+}
