@@ -2,7 +2,7 @@
  * @name bremu45 Discord Theme
  * @author bremu45
  * @authorLink https://2137.fun
- * @version 1.1
+ * @version 1.2
  * @description A simple dark theme made by bremu45 that has some features :) (Based on AmoledCord)
  * @source https://raw.githubusercontent.com/bremu45/bremu45amoled/main/bremu45.theme.css
  * @website https://2137.fun
@@ -10,6 +10,11 @@
 
 @import url("https://nyri4.github.io/Discolored/main.css");
 @import url("https://luckfire.github.io/amoled-cord/src/support/compiled.css");
+
+/*
+Sorry for shit code but I don't care if someone will hate it :)
+The most important thing in it is that it works :D
+*/
 
 :root { --sidebar-initial-width: 240px; }
 .sidebar-1tnWFu {
@@ -89,10 +94,6 @@ span.mention.wrapper-1ZcZW-.mention {
     border-radius: 15px;
 }
 
-.flex-2S1XBF {
-    border-radius: 15px;
-}
-
 .membershipDialogHouse3-1E5AN4 {
     border-radius: 15px;
 }
@@ -113,7 +114,7 @@ span.mention.wrapper-1ZcZW-.mention {
 .bd-addon-list .bd-footer .bd-links, .bd-addon-list .bd-footer .bd-links a, .bd-addon-list .bd-footer .bd-addon-button {
     display: flex;
     align-items: center;
-    border-radius: 100%;
+    border-radius: 25px;
     margin-right: 5px;
 }
 
@@ -177,4 +178,125 @@ span.itemValue-1-Xx5h.height24-10aZdw:hover {
 
 .tile-3POX2m:hover {
     transform: scale(1.1);
+}
+
+.item-2idW98 {
+    border-radius: 25px;
+}
+
+#bd-pub-li {
+    visibility: hidden;
+    height: 0px;
+    width: 0px;
+}
+
+.input-2g-os5 {
+    border-radius: 25px;
+}
+
+.root-g14mjS {
+    border-radius: 15px;
+}
+
+.userPopout-2j1gM4 {
+    border-radius: 15px;
+}
+
+.outer-VAWfYQ {
+    border-radius: 25px;
+}
+
+.connectedAccount-1xKpli {
+    border-radius: 25px;
+}
+
+.content-1gYQeQ {
+    border-radius: 25px;
+}
+
+.role-2TIOKu {
+    border-radius: 25px;
+}
+
+.searchBar-3TnChZ .searchBarComponent-3N7dCG {
+    width: 100%;
+    height: 28px;
+    overflow: hidden;
+    border-radius: 25px;
+    background-color: var(--background-tertiary);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: var(--text-muted);
+    text-align: left;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.input-3r5zZY {
+    border-radius: 100px;
+    text-align: center;
+}
+
+.container-x8Y1ix {
+    border-radius: 100px;
+}
+
+.swatch-35F5kl, colorSwatch-3KbHGH {
+    border-radius: 12px;
+}
+
+.theme-dark .colorPickerCustom-1swUKF {
+    background: black;
+    border-color: #202225;
+    border-radius: 15px;
+}
+
+.theme-dark .searchBar-zdmu7v {
+    background: #050505;
+    border-radius: 15px;
+}
+
+.theme-dark .quickSelectPopout-2F0PXw {
+    background: #050505;
+    color: #f6f6f7;
+    border-radius: 15px;
+}
+
+.messagesPopoutWrap-3zryHW, .browser-mnQ1T7, .settingCard-xZSDjS, .card-2EUiNF, .attachment-1PZZB2 {
+    border-radius: 15px;
+}
+
+.searchBox-3IjAC1, .topPill-3DJJNV .item-3XjbnG, .container-2oNtJn, .rem-3kT9wc.botTag-7aX5WZ {
+    border-radius: 25px;
+}
+
+span.headerBotTagWithNickname-3DNCuU.bot-XvK26D.botTagRegular-kpctgU.botTag-7aX5WZ.px-MnE_OR, .side-2ur1Qk .item-3XjbnG {
+    border-radius: 25px;
+}
+
+.item-4m-12I, .deny-1GO6vI, .selected-3jieYB, .group-LWHoGI {
+    border-radius: 25px;
+    border: 0px solid 
+        var(--background-tertiary);
+}
+
+.input-1nrc5P, .card-m7VgZ8 {
+    border-radius: 25px;
+}
+
+.scrollbarGhostHairline-2LpzZ9 {
+    border-radius: 15px;
+}
+
+.group-1_ptLP .flex-3BkGQD {
+    border-radius: 25px;
+    margin: 2px 2px 2px 2px;
+}
+
+.qualitySettingsContainer-2LjkfM {
+    border: 0px solid 
+        var(--background-tertiary);
 }
