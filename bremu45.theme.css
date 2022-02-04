@@ -2,7 +2,7 @@
  * @name bremu45 Discord Theme
  * @author bremu45
  * @authorLink https://2137.fun
- * @version 1.2
+ * @version 1.3
  * @description A simple dark theme made by bremu45 that has some features :) (Based on AmoledCord)
  * @source https://raw.githubusercontent.com/bremu45/bremu45amoled/main/bremu45.theme.css
  * @website https://2137.fun
@@ -195,7 +195,7 @@ span.itemValue-1-Xx5h.height24-10aZdw:hover {
 }
 
 .root-g14mjS {
-    border-radius: 15px;
+    border-radius: 25px;
 }
 
 .userPopout-2j1gM4 {
@@ -299,4 +299,16 @@ span.headerBotTagWithNickname-3DNCuU.bot-XvK26D.botTagRegular-kpctgU.botTag-7aX5
 .qualitySettingsContainer-2LjkfM {
     border: 0px solid 
         var(--background-tertiary);
+}
+
+.authorize-2xTTr- {
+    border-radius: 15px;
+}
+
+.footer-3Gu_Tl {
+    border-radius: 0 0 15px 15px;
+}
+
+.footer-31IekZ {
+    border-radius: 0px 0px 15px 15px;
 }
