@@ -2,7 +2,6 @@
 <p align="center">
     <img src="https://i.imgur.com/DwVIgrh.gif"><br>
     Forked AmoledCord with some improvements ;)<br>
-  
     You need BetterDiscord to use my theme.
     <img src="https://i.imgur.com/DwVIgrh.gif"><br>
     Download: <a href="https://betterdiscord.app/">[here]</a><br>
